@@ -1,0 +1,40 @@
+@import url('https://fonts.cdnfonts.com/css/a-cursive');
+
+.option-wrapper{
+    margin-top: 10px;
+}
+body {
+    
+    font-family: 'Source Sans Pro', sans-serif;
+	color: #fad744;
+	background-color: #54c3ef;
+	padding-top: 4em;
+}
+h1 {
+    font-family: 'Caveat Brush', cursive;
+	font-size: 400%;
+	text-align: center;
+	text-shadow: 2px 2px #000000;
+	margin-bottom: 20px;
+}
+#quiz-app {
+	background-color: #2b3252;
+	border-radius: 5px;
+	padding: 2em;
+	
+	
+}
+ button {
+        background-color: #fad744;
+        color: #2b3252;
+        border-color: #fad744;
+        padding: 1em;
+	    position: sticky;
+        border-radius: 5px;
+        font-size: 100%;
+	    font-weight: bold;
+
+ }
+ button:hover {
+        border-color: #fad744;
+ }
